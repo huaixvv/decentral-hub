@@ -16,7 +16,7 @@ console.log(ACCOUNT_PRIVATE_KEY, ETHERSCAN_API_KEY, GOERLI_URL, GOERLI_CHAIN_ID,
 /** @type import('hardhat/config').HardhatUserConfig */
 module.exports = {
   solidity: "0.8.24",
-  defaultNetwork: "ganache",
+  defaultNetwork: "sepolia",
   networks: {
     ganache: {
       url: "http://127.0.0.1:7545",
