@@ -14,8 +14,8 @@ Base on IERC20 standard.
 ### use
 
 #### 0. config
-- input config in .env file 
-- select network in hardhat.config.js
+- input config in ```.env``` file 
+- select a default network in ```hardhat.config.js```
 
 #### 1. develop contract
 ``` shell
@@ -51,4 +51,8 @@ export const config = createConfig({
 #### 4. run
 
 ```npm dev run```
+
+
+
+
 
