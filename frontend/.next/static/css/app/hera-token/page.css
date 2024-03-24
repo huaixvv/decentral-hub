@@ -1,0 +1,68 @@
+/*!***************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[12].use[3]!./app/hera-token/hera-token.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************/
+
+.hera-token input{
+    width: 45%;
+    padding: 6px;
+    margin: 10px 0;
+    border: 1px solid #a2a2a2;
+    border-radius: 5px;
+    font-size: 16px;
+    outline: none;
+}
+
+.hera-token input:focus {
+    border: 1px solid #000000;
+}
+
+.hera-token input::-moz-placeholder{
+    color: #838383; /* 设置 placeholder 文字颜色 */
+    font-style: italic; /* 设置 placeholder 文字斜体 */
+    opacity: 0.7; /* 设置 placeholder 透明度 */
+    font-size: 14px;
+    padding-left: 4px;
+}
+
+.hera-token input::placeholder{
+    color: #838383; /* 设置 placeholder 文字颜色 */
+    font-style: italic; /* 设置 placeholder 文字斜体 */
+    opacity: 0.7; /* 设置 placeholder 透明度 */
+    font-size: 14px;
+    padding-left: 4px;
+}
+
+.address-hr {
+    margin-top: 4px;
+    border-color: #ababab;
+    width: 45%;
+}
+
+.title-2 {
+    border-left: 4px solid #000000;
+    padding-left: 10px;
+    margin-top: 40px;
+}
+
+.address-button:hover {
+    background-color: #2a2a2a;
+}
+
+.address-button {
+    /*margin-top: -1px !important;*/
+}
+
+.address-button-get {
+    height: 36px;
+    margin-top: 11px;
+    margin-left: 30px;
+    line-height: 36px;
+}
+
+.address-button-send{
+    height: 36px;
+    margin-top: 11px;
+    line-height: 36px;
+    width: 75px;
+}
+

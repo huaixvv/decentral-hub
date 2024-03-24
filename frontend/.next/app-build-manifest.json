@@ -1,0 +1,40 @@
+{
+  "pages": {
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/address-builder/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/address-builder/page.css",
+      "static/chunks/app/address-builder/page.js"
+    ],
+    "/hera-token/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/hera-token/page.css",
+      "static/chunks/app/hera-token/page.js"
+    ],
+    "/hera-faucet/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/hera-faucet/page.css",
+      "static/chunks/app/hera-faucet/page.js"
+    ],
+    "/hera-airdrop/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/hera-airdrop/page.css",
+      "static/chunks/app/hera-airdrop/page.js"
+    ],
+    "/wallet/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/wallet/page.css",
+      "static/chunks/app/wallet/page.js"
+    ]
+  }
+}

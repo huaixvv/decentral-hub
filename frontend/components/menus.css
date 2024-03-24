@@ -1,0 +1,5 @@
+.menu-hover:hover {
+    border: 1px solid #1e1e1e;
+    border-radius: 3px;
+    cursor: pointer;
+}

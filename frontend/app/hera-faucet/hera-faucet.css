@@ -1,0 +1,14 @@
+.title-2 {
+    border-left: 4px solid #000000;
+    padding-left: 10px;
+}
+
+.faucet-hr {
+    margin-top: 4px;
+    border-color: #ababab;
+    width: 45%;
+}
+
+.address-button:hover {
+    background-color: #2a2a2a;
+}
